@@ -1,0 +1,20 @@
+1. first u have to go to discord developer portal
+link - https://discord.com/developers/applications
+2. u have to create a application!
+3. open the bot and create it!
+4. now we have to code the bot!
+5. copy the code link in desc or type it like me!
+6. choose ur prefix for the bot like me!
+7. now go to discord dev portal
+8. copy the bot token!
+9. paste it here!
+10. now our bot is ready to go!
+11. now go to Oauth choose bot then copy it! paste 
+in your browser now select a server!
+12. yayy our bot is online :D
+13. now i will show you one simple command!
+14. our command is done! lets check!
+15. now put ur prefix like mine is #
+16. it returned 2 times bcs i runned the bot 2 times 
+but down worry it will not happen to you!!
+Thx for watching this video wait for part 2! bye!
