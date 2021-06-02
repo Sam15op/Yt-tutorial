@@ -13,4 +13,4 @@ async def hello(ctx):
 	await ctx.send('Hello there!')
 
 
-client.run('ODQxNjg0Nzg4ODU5MzcxNTQw.YJqWCw.2w9F_OPLo-Dx_MZavnz-d2PTJio')
+client.run('your token!')
